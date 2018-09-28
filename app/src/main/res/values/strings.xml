@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <string name="ruler_calibration">калибровка</string>
+    <string name="ruler_reset">Обновить поле</string>
+    <string name="ruler_type_measure">Сменить режим измерения</string>
+    <string name="ruler_mm_or_inch">Милиметры или дюймы</string>
+    <string name="inch">INCH</string>
+    <string name="ruler_block">Заблокировать поле</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="put_a_cm_ruler">ПРИЛОЖИТЕ САНТИМЕТРОВУЮ ЛИНЕЙКУ</string>
+    <string name="saveoff">НЕ СОХРАНЯТЬ</string>
+    <string name="note_cancel">СОХРАНИТЬ</string>
+</resources>

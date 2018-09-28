@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activeColor">#ff00ff</color>
+    <color name="accent">#ff00ff</color>
+    <color name="white">#fff</color>
+    <color name="normalColor">#00ffff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_dark_lite">#ff202026</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="textlight">#fff</color>
+</resources>
